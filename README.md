@@ -6,7 +6,7 @@ It produces waveform, tempo & beats, pitch (PYIN), mel‑spectrogram, and MFCCs,
 ## Structure
 ```
 somali-music-feature-explorer/
-├── data/            # put short audio clips here (e.g., ≤30s for fair use/testing)
+├── data/            # put short audio clips (e.g., ≤30s for fair use/testing)
 ├── features/        # saved feature arrays (.npz)
 ├── reports/         # saved plots (.png)
 ├── notebooks/
